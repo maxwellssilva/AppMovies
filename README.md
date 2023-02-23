@@ -1,3 +1,4 @@
 # AppMovies
  
-## Desafio: 7 days of code
+## App de estudo
+## UIKit, ViewCode, Arquitetura
